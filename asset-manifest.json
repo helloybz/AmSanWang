@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AmSanWang/static/css/main.22a84a83.chunk.css",
+    "main.js": "/AmSanWang/static/js/main.cc3d7576.chunk.js",
+    "main.js.map": "/AmSanWang/static/js/main.cc3d7576.chunk.js.map",
+    "runtime-main.js": "/AmSanWang/static/js/runtime-main.c77f1388.js",
+    "runtime-main.js.map": "/AmSanWang/static/js/runtime-main.c77f1388.js.map",
+    "static/js/2.d36b2377.chunk.js": "/AmSanWang/static/js/2.d36b2377.chunk.js",
+    "static/js/2.d36b2377.chunk.js.map": "/AmSanWang/static/js/2.d36b2377.chunk.js.map",
+    "static/js/3.6f0a346b.chunk.js": "/AmSanWang/static/js/3.6f0a346b.chunk.js",
+    "static/js/3.6f0a346b.chunk.js.map": "/AmSanWang/static/js/3.6f0a346b.chunk.js.map",
+    "index.html": "/AmSanWang/index.html",
+    "static/css/main.22a84a83.chunk.css.map": "/AmSanWang/static/css/main.22a84a83.chunk.css.map",
+    "static/js/2.d36b2377.chunk.js.LICENSE.txt": "/AmSanWang/static/js/2.d36b2377.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c77f1388.js",
+    "static/js/2.d36b2377.chunk.js",
+    "static/css/main.22a84a83.chunk.css",
+    "static/js/main.cc3d7576.chunk.js"
+  ]
+}
